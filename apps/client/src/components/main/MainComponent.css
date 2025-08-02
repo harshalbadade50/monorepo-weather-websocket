@@ -1,0 +1,15 @@
+.top-container {
+    padding: 1rem;
+}
+
+.controls-container {
+    display: flex;
+    margin: 1rem 0;
+}
+
+.refresh-button {
+    margin: 0 1rem !important;
+}
+.select-input {
+    min-width: 220px !important;
+}

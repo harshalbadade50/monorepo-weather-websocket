@@ -1,0 +1,12 @@
+{
+  "name": "websocketserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node weather_stream_simulator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
