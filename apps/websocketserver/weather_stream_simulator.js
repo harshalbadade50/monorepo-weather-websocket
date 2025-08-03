@@ -2,7 +2,7 @@ const WebSocket = require('ws');
 
 
 const PORT = 8765;
-const INTERVAL_MS = 3000; // ~10 events/second
+const INTERVAL_MS = 100; // ~10 events/second
 
 const wss = new WebSocket.Server({port: PORT});
 
